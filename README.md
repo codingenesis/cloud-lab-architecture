@@ -1,2 +1,2 @@
-# My DevOps Lab Architecture
+# Cloud Lab Architecture
 This is how the architecture of my Automation lab looks like
